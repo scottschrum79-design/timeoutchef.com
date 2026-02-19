@@ -6,7 +6,6 @@ title: "Brownie Bottom Lemon Cheesecake"
 <p class="pill">Serves 10 – 12</p>
 
 ## Ingredients
-
 ### For the crust
 - 6 TBSP flour
 - 1 ½ tsp unsweetened cocoa
