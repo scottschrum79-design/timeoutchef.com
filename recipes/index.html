@@ -13,12 +13,24 @@ permalink: /recipes/
 <div class="grid">
   {% assign items = site.recipes | sort: "title" %}
   {% for r in items %}
-    <a class="card" href="{{ r.url }}" data-recipe-title="{{ r.title }}">
-      {% if r.image %}
-        <img src="{{ r.image }}" alt="{{ r.title }}">
-      {% else %}
-        <img src="/images/recipes/_placeholder.svg" alt="">
-      {% endif %}
+<a class="card" href="{{ r.url }}" data-recipe-title="{{ r.title }}">
+
+      {% assign img_png = "/images/recipes/" | append: r.slug | append: ".png" %}
+      {% assign img_jpg = "/images/recipes/" | append: r.slug | append: ".jpg" %}
+      {% assign img_jpeg = "/images/recipes/" | append: r.slug | append: ".jpeg" %}
+
+      <img
+        src="{{ img_png }}"
+        data-jpg="{{ img_jpg }}"
+        data-jpeg="{{ img_jpeg }}"
+        onerror="
+          if (!this.dataset.try) { this.dataset.try = 'jpg'; this.src = this.dataset.jpg; return; }
+          if (this.dataset.try === 'jpg') { this.dataset.try = 'jpeg'; this.src = this.dataset.jpeg; return; }
+          this.onerror=null; this.src='/images/recipes/_placeholder.svg';
+        "
+        alt="{{ r.title }}"
+      >
+
       <h3>{{ r.title }}</h3>
       {% if r.serves %}<span class="badge">Serves {{ r.serves }}</span>{% endif %}
     </a>
