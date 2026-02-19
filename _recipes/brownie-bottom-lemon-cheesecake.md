@@ -7,7 +7,7 @@ title: "Brownie Bottom Lemon Cheesecake"
 
 ## Ingredients
 
-- crust
+For the crust
 - 6 TBSP flour
 - 1 ½ tsp unsweetened cocoa
 - powder
@@ -19,10 +19,25 @@ title: "Brownie Bottom Lemon Cheesecake"
 - 1/4 cup brown sugar
 - 1 egg
 - 1/2 tsp vanilla extract
+For the Filling
+- 40 oz cream cheese, room temperature
+- 1 ¾ cups sugar
+- 1 ¾ cups sugar
+- 2 TBSP flour
+- 1 lemon, zested & juiced
+- 5 eggs
+- 2 egg yolks
+- 1/2 cup sour cream
+- 1/4 cup heavy whipping cream
+For the Topping
+- 1 cup sour cream
+- Bittersweet chocolate curls or shavings
+- 1 lemon, halved lengthwise, thinly sliced crosswise
+Special equipment
+- 9” diameter springform pan, about 3” high
 
 ## Directions
-
-1. filling 40 oz cream cheese, room temperature 1 ¾ cups sugar 2 TBSP flour 1 lemon, zested & juiced 5 eggs 2 egg yolks 1/2 cup sour cream 1/4 cup heavy whipping cream topping 1 cup sour cream Bittersweet chocolate curls or shavings 1 lemon, halved lengthwise, thinly sliced crosswise Special equipment 9” diameter springform pan, about 3” high crust Preheat oven to 350° .
+1. Preheat oven to 350° .
 2. Spray inside springform pan with nonstick spray.
 3. Whisk flour , cocoa , and salt in small bowl; set aside.
 4. Combine chocolate and butter in medium metal bowl; place bowl over saucepan of simmering water and stir until melted and smoo th. Remove bowl from over water. Add both sugars to chocolate mixture and whisk until blended. Let cool until mixture is barely lukewarm, about 10 minutes. Whisk egg and vanilla into chocolate mixture. Fold flour mixture into chocolate mixture. Spread brow nie batter evenly over bottom of prepared pan.
