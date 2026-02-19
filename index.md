@@ -1,0 +1,74 @@
+---
+layout: default
+title: Home
+---
+
+<p class="muted">Search and click a recipe.</p>
+<input id="q" type="search" placeholder="Search recipes…" aria-label="Search recipes">
+<div class="grid" id="list">
+<div class="card" data-title="brie en croute"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/brie-en-croute.html" | relative_url }}">Brie en Croute</a></h2><span class="pill">Serves 4 – 6</span></div>
+<div class="card" data-title="thai chicken bites"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/thai-chicken-bites.html" | relative_url }}">Thai Chicken Bites</a></h2><span class="pill">Serves approx 18 servings</span></div>
+<div class="card" data-title="grilled hot -sweet chicken wings"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/grilled-hot-sweet-chicken-wings.html" | relative_url }}">Grilled Hot -Sweet Chicken Wings</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="hot spinach & artichoke dip"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/hot-spinach-artichoke-dip.html" | relative_url }}">Hot Spinach & Artichoke Dip</a></h2><span class="pill">Serves 4 – 6</span></div>
+<div class="card" data-title="pepperoni pizza bites"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/pepperoni-pizza-bites.html" | relative_url }}">Pepperoni Pizza Bites</a></h2><span class="pill">Serves approx 12 or 24 servings</span></div>
+<div class="card" data-title="kalamata olive hummus"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/kalamata-olive-hummus.html" | relative_url }}">Kalamata Olive Hummus</a></h2><span class="pill">Serves 4 – 6</span></div>
+<div class="card" data-title="warm escarole salad with goat cheese"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/warm-escarole-salad-with-goat-cheese.html" | relative_url }}">Warm Escarole Salad with Goat Cheese</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="buffalo chicken salad"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/buffalo-chicken-salad.html" | relative_url }}">Buffalo Chicken Salad</a></h2><span class="pill">Serves 3 – 4</span></div>
+<div class="card" data-title="mozzarella and bread salad"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/mozzarella-and-bread-salad.html" | relative_url }}">Mozzarella and Bread Salad</a></h2><span class="pill">Serves 3 – 4</span></div>
+<div class="card" data-title="chopped apple salad with toasted walnuts, blue cheese and cranberry vinaigrette"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/chopped-apple-salad-with-toasted-walnuts-blue-cheese-and-cranberry-vinaigrette.html" | relative_url }}">Chopped Apple Salad with Toasted Walnuts, Blue Cheese and Cranberry Vinaigrette</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="salmon and leek chowder"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/salmon-and-leek-chowder.html" | relative_url }}">Salmon and Leek Chowder</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="spicy chicken tortilla soup"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/spicy-chicken-tortilla-soup.html" | relative_url }}">Spicy Chicken Tortilla Soup</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="crispy black bean tacos with feta & slaw"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/crispy-black-bean-tacos-with-feta-slaw.html" | relative_url }}">Crispy Black Bean Tacos with Feta & Slaw</a></h2><span class="pill">Serves 3 – 4</span></div>
+<div class="card" data-title="bean taquitos with cumber salsa"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/bean-taquitos-with-cumber-salsa.html" | relative_url }}">Bean Taquitos with Cumber Salsa</a></h2><span class="pill">Serves 3 – 4</span></div>
+<div class="card" data-title="black bean burgers"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/black-bean-burgers.html" | relative_url }}">Black Bean Burgers</a></h2><span class="pill">Serves 2 – 3</span></div>
+<div class="card" data-title="double – decker stuffed portobello sandwiches"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/double-decker-stuffed-portobello-sandwiches.html" | relative_url }}">Double – Decker Stuffed Portobello Sandwiches</a></h2><span class="pill">Serves 2</span></div>
+<div class="card" data-title="open faced eggplant marinara"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/open-faced-eggplant-marinara.html" | relative_url }}">Open Faced Eggplant Marinara</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="vegetable calzones"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/vegetable-calzones.html" | relative_url }}">Vegetable Calzones</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="pasta with peas, asparagus, and bacon"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/pasta-with-peas-asparagus-and-bacon.html" | relative_url }}">Pasta with Peas, Asparagus, and Bacon</a></h2><span class="pill">Serves 3 – 4</span></div>
+<div class="card" data-title="shrimp pad thai"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/shrimp-pad-thai.html" | relative_url }}">Shrimp Pad Thai</a></h2><span class="pill">Serves 2 – 3</span></div>
+<div class="card" data-title="pasta puttanesca"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/pasta-puttanesca.html" | relative_url }}">Pasta Puttanesca</a></h2><span class="pill">Serves 3 – 4</span></div>
+<div class="card" data-title="spinach"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/spinach.html" | relative_url }}">Spinach</a></h2><span class="pill">Serves 3 – 4</span></div>
+<div class="card" data-title="fettuccine with bab y vegetables and lemon parmesan sauce"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/fettuccine-with-bab-y-vegetables-and-lemon-parmesan-sauce.html" | relative_url }}">Fettuccine with Bab y Vegetables and Lemon Parmesan Sauce</a></h2><span class="pill">Serves 3 – 4</span></div>
+<div class="card" data-title="roasted tomato sauce"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/roasted-tomato-sauce.html" | relative_url }}">Roasted Tomato Sauce</a></h2><span class="pill">Serves about 2 jars</span></div>
+<div class="card" data-title="buffalo thigh sliders"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/buffalo-thigh-sliders.html" | relative_url }}">Buffalo Thigh Sliders</a></h2><span class="pill">Serves 3 – 4</span></div>
+<div class="card" data-title="crunchy chicken with sesame rice and green beans"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/crunchy-chicken-with-sesame-rice-and-green-beans.html" | relative_url }}">Crunchy Chicken with Sesame Rice and Green Beans</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="grilled chicken breast w/ ginger soy"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/grilled-chicken-breast-w-ginger-soy.html" | relative_url }}">Grilled Chicken Breast w/ Ginger Soy</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="chicken marsala"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/chicken-marsala.html" | relative_url }}">Chicken Marsala</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="chicken piccata"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/chicken-piccata.html" | relative_url }}">Chicken Piccata</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="bbq chicken & black bean pizza"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/bbq-chicken-black-bean-pizza.html" | relative_url }}">BBQ Chicken & Black Bean Pizza</a></h2><span class="pill">Serves 2 – 3</span></div>
+<div class="card" data-title="greek meatball pita sandwiches with roasted green beans and almonds"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/greek-meatball-pita-sandwiches-with-roasted-green-beans-and-almonds.html" | relative_url }}">Greek Meatball Pita Sandwiches with Roasted Green Beans and Almonds</a></h2><span class="pill">Serves 2 – 3</span></div>
+<div class="card" data-title="sliced steak with caper sauce and broiled tomatoes with bacon bit breadcrumbs"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/sliced-steak-with-caper-sauce-and-broiled-tomatoes-with-bacon-bit-breadcrumbs.html" | relative_url }}">Sliced Steak with Caper Sauce and Broiled Tomatoes with Bacon Bit Breadcrumbs</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="salisbury steak"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/salisbury-steak.html" | relative_url }}">Salisbury Steak</a></h2><span class="pill">Serves 2</span></div>
+<div class="card" data-title="jalapeño, avocado and bacon burgers"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/jalape-o-avocado-and-bacon-burgers.html" | relative_url }}">Jalapeño, Avocado and Bacon Burgers</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="steak frites"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/steak-frites.html" | relative_url }}">Steak Frites</a></h2><span class="pill">Serves 2</span></div>
+<div class="card" data-title="pepper -grilled steak with chopped summer salad"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/pepper-grilled-steak-with-chopped-summer-salad.html" | relative_url }}">Pepper -Grilled Steak with Chopped Summer Salad</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="grilled sausage and fig pizza"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/grilled-sausage-and-fig-pizza.html" | relative_url }}">Grilled Sausage and Fig Pizza</a></h2><span class="pill">Serves 2</span></div>
+<div class="card" data-title="pork tenderloin with tomato peach compote"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/pork-tenderloin-with-tomato-peach-compote.html" | relative_url }}">Pork Tenderloin with Tomato Peach Compote</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="pork ch ops with banana – mashed sweet potatoes and green beans"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/pork-ch-ops-with-banana-mashed-sweet-potatoes-and-green-beans.html" | relative_url }}">Pork Ch ops with Banana – Mashed Sweet Potatoes and Green Beans</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="sausage risotto with spring greens"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/sausage-risotto-with-spring-greens.html" | relative_url }}">Sausage Risotto with Spring Greens</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="island pale ale chili"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/island-pale-ale-chili.html" | relative_url }}">Island Pale Ale Chili</a></h2><span class="pill">Serves 4 -6</span></div>
+<div class="card" data-title="corn dogs"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/corn-dogs.html" | relative_url }}">Corn Dogs</a></h2><span class="pill">Serves 4 – 8</span></div>
+<div class="card" data-title="mussels in mexican beer"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/mussels-in-mexican-beer.html" | relative_url }}">Mussels in Mexican Beer</a></h2><span class="pill">Serves 2</span></div>
+<div class="card" data-title="chili bbq salmon"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/chili-bbq-salmon.html" | relative_url }}">Chili BBQ Salmon</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="shrimp scampi bake"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/shrimp-scampi-bake.html" | relative_url }}">Shrimp Scampi Bake</a></h2><span class="pill">Serves 4 – 6</span></div>
+<div class="card" data-title="blackened shrimp po'boy"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/blackened-shrimp-poboy.html" | relative_url }}">Blackened Shrimp Po'Boy</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="scallop & bacon pizza"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/scallop-bacon-pizza.html" | relative_url }}">Scallop & Bacon Pizza</a></h2><span class="pill">Serves 2 – 3</span></div>
+<div class="card" data-title="crab nachos"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/crab-nachos.html" | relative_url }}">Crab Nachos</a></h2><span class="pill">Serves 6 – 8</span></div>
+<div class="card" data-title="brownie bottom lemon cheesecake"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/brownie-bottom-lemon-cheesecake.html" | relative_url }}">Brownie Bottom Lemon Cheesecake</a></h2><span class="pill">Serves 10 – 12</span></div>
+<div class="card" data-title="tomato tarte tatin"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/tomato-tarte-tatin.html" | relative_url }}">Tomato Tarte Tatin</a></h2><span class="pill">Serves 6 – 8</span></div>
+<div class="card" data-title="lemon panna cotta with strawberry sauce"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/lemon-panna-cotta-with-strawberry-sauce.html" | relative_url }}">Lemon Panna Cotta with Strawberry Sauce</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="molten spiced chocolate cabernet cakes"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/molten-spiced-chocolate-cabernet-cakes.html" | relative_url }}">Molten Spiced Chocolate Cabernet Cakes</a></h2><span class="pill">Serves 4</span></div>
+<div class="card" data-title="maple blueberry parfait"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/maple-blueberry-parfait.html" | relative_url }}">Maple Blueberry Parfait</a></h2><span class="pill">Serves 6</span></div>
+<div class="card" data-title="raspberries with ricotta cream"><h2 style="margin:0 0 6px 0;font-size:18px"><a href="{{ "/recipes/raspberries-with-ricotta-cream.html" | relative_url }}">Raspberries with Ricotta Cream</a></h2><span class="pill">Serves 4</span></div>
+</div>
+<script>
+  const q = document.getElementById('q');
+  const cards = Array.from(document.querySelectorAll('#list .card'));
+  q.addEventListener('input', () => {
+    const term = q.value.trim().toLowerCase();
+    cards.forEach(c => {
+      const t = c.getAttribute('data-title') || '';
+      c.style.display = (!term || t.includes(term)) ? '' : 'none';
+    });
+  });
+</script>
