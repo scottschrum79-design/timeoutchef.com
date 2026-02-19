@@ -1,6 +1,5 @@
 title: TimeOut Chef Recipes
 description: Family recipes made between timeouts.
-url: https://timeoutchef.com
 
 collections:
   recipes:
@@ -15,3 +14,4 @@ defaults:
       layout: recipe
 
 markdown: kramdown
+
