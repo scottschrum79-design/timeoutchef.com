@@ -1,32 +1,44 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <style>
-      body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:860px;margin:0 auto;padding:24px;line-height:1.5}
-      header{display:flex;gap:12px;align-items:baseline;flex-wrap:wrap}
-      a{color:inherit}
-      .muted{opacity:.7}
-      .card{border:1px solid rgba(0,0,0,.12);border-radius:14px;padding:16px;margin:14px 0}
-      ul{padding-left:20px}
-      ol{padding-left:22px}
-      .pill{display:inline-block;padding:2px 10px;border:1px solid rgba(0,0,0,.14);border-radius:999px;font-size:14px}
-      footer{margin-top:40px;font-size:14px;opacity:.7}
-      input[type="search"]{width:100%;padding:12px 14px;border-radius:12px;border:1px solid rgba(0,0,0,.18);font-size:16px}
-      .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
-      h2{line-height:1.25}
-    </style>
-  </head>
-  <body>
-    <header>
-      <h1 style="margin:0;font-size:24px"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <span class="muted">{{ site.description }}</span>
-    </header>
-    <main>
-      {{ content }}
-    </main>
-    <footer>© {{ site.time | date: "%Y" }} TimeOutChef.com</footer>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="/"><span class="brand-title">{{ site.title }}</span></a>
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/recipes/">Recipes</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap small">© {{ "now" | date: "%Y" }} TimeOut Chef</div>
+  </footer>
+
+  <script>
+    (function(){
+      const input = document.getElementById('recipe-search');
+      if(!input) return;
+      const cards = Array.from(document.querySelectorAll('[data-recipe-title]'));
+      input.addEventListener('input', () => {
+        const q = input.value.trim().toLowerCase();
+        cards.forEach(c => {
+          const t = (c.getAttribute('data-recipe-title') || '').toLowerCase();
+          c.style.display = t.includes(q) ? '' : 'none';
+        });
+      });
+    })();
+  </script>
+</body>
 </html>

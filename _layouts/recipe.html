@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article class="recipe">
+  <header class="recipe-header">
+    <h1 class="recipe-title">{{ page.title }}</h1>
+
+    <div class="recipe-meta">
+      {% if page.serves %}<span class="badge">Serves {{ page.serves }}</span>{% endif %}
+      {% if page.time %}<span class="badge">Time {{ page.time }}</span>{% endif %}
+      {% if page.source %}<span class="badge">Source {{ page.source }}</span>{% endif %}
+    </div>
+
+    {% if page.image %}
+      <img class="recipe-hero" src="{{ page.image }}" alt="{{ page.title }}">
+    {% endif %}
+
+    <div class="recipe-actions">
+      <button class="btn" onclick="window.print()">Print</button>
+    </div>
+  </header>
+
+  <div class="recipe-body">
+    {{ content }}
+  </div>
+
+  <p class="small"><a href="/recipes/">← Back to all recipes</a></p>
+</article>
