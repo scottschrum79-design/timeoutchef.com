@@ -1,4 +1,17 @@
 title: TimeOut Chef Recipes
-description: Family recipe book
-theme: minima
+description: Family recipes made between timeouts.
+url: https://timeoutchef.com
+
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: recipe
+
 markdown: kramdown
