@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#f4f4f4"/>
+  <g fill="#c9c9c9">
+    <path d="M240 560h720v40H240z"/>
+    <path d="M240 480h520v32H240z"/>
+  </g>
+  <text x="240" y="420" font-family="Arial, sans-serif" font-size="44" fill="#9a9a9a">Recipe photo</text>
+</svg>
