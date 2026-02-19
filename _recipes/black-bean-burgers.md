@@ -7,11 +7,17 @@ title: "Black Bean Burgers"
 
 ## Ingredients
 
-- 15 oz can black beans, rinsed &
+- 15 oz can black beans, rinsed & drained
+- 1/3 cup red onion chopped
+- 1/4 cup breadcrumbs
+- 2 TBSP salsa , chunky
+- 1 tsp cumin ground
+- 1/2 tsp hot sauce
+- 2 to 3 hamburger rolls 
 
 ## Directions
 
-1. drained 1/3 cup red onion , chopped 1/4 cup breadcrumbs 2 TBSP salsa , chunky 1 tsp cumin , ground 1/2 tsp hot sauce 2 to 3 hamburger rolls In a medium bowl, mash beans with a fork or potato masher.
+1. In a medium bowl, mash beans with a fork or potato masher.
 2. Mix in onion , breadcrumbs , salsa , cumin and hot sauce .
 3. Season with salt and pepper . Using hands, shape bean mixture into two to three patties.
 4. Heat a large skillet to medium -high heat. Spray skillet with oil .
