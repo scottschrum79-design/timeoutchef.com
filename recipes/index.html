@@ -1,1 +1,26 @@
+---
+layout: default
+title: Recipes
+permalink: /recipes/
+---
+<h1>All Recipes</h1>
+<p class="small">Search and click a recipe.</p>
 
+<div class="search">
+  <input id="recipe-search" type="search" placeholder="Search recipes...">
+</div>
+
+<div class="grid">
+  {% assign items = site.recipes | sort: "title" %}
+  {% for r in items %}
+    <a class="card" href="{{ r.url }}" data-recipe-title="{{ r.title }}">
+      {% if r.image %}
+        <img src="{{ r.image }}" alt="{{ r.title }}">
+      {% else %}
+        <img src="/images/recipes/_placeholder.svg" alt="">
+      {% endif %}
+      <h3>{{ r.title }}</h3>
+      {% if r.serves %}<span class="badge">Serves {{ r.serves }}</span>{% endif %}
+    </a>
+  {% endfor %}
+</div>
