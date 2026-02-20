@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- vegetarian
+- burger
+- main
 title: "Double – Decker Stuffed Portobello Sandwiches"
 ---
 
@@ -9,11 +13,13 @@ title: "Double – Decker Stuffed Portobello Sandwiches"
 
 - 4 Portobello mushroom caps,
 - stems discarded
-- 1/2 red onion, cut into thick
+- 1/2 red onion, cut into thick slices
+- 3 oz blue cheese, crumbled
+- 2 Rolls
 
 ## Directions
 
-1. slices 3 oz blue cheese, crumbled 2 rolls, Kaiser or potato Preheat a grill to high.
+1. Preheat a grill to high.
 2. Brush or spray the mushroom caps and onion with olive oil .
 3. Sprinkle both sides of the mushrooms and onion with salt and pepper .
 4. Place the onions and mushrooms, stem side down, on the grill, cover and cook, turning once, for 8 minutes.
