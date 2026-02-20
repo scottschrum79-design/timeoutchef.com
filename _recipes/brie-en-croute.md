@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: receipe
+categories:
+- appetizer
 title: "Brie en Croute"
 ---
 
