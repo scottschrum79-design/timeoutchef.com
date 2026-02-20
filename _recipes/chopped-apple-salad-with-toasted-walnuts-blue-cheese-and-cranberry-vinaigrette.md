@@ -10,7 +10,8 @@ title: "Chopped Apple Salad with Toasted Walnuts, Blue Cheese and Cranberry Vina
 
 ## Ingredients
 
-- Dressing
+### Dressing
+
 - 1/4 cup dried cranberries
 - 3 TBSP red wine vinegar
 - 2 TBSP balsamic vinegar
@@ -18,22 +19,23 @@ title: "Chopped Apple Salad with Toasted Walnuts, Blue Cheese and Cranberry Vina
 - ½ tsp salt
 - ½ tsp pepper
 - 1/3 cup olive oil
-- Salad
+### Salad
+
 - 1/2 cup walnuts, chopped
 - 1/4 cup dried cranberries
 - 1 lb mixed greens
 - 2 apples, cored and cubed
 - 4 oz blue cheese, crumbled
 - Dressing
-- Rehydrate the cranberries in a small bowl of hot water for
-- about 30 minutes. Drain and set aside.
+
 
 ## Directions
 
-1. In a blender combine the hydrated cranberries, red wine vinegar , balsamic vinegar , mustard , salt, and pepper . Blend until smooth. Continue to run the blender and slowly add the oil to the mixture until it thickens and is emulsified.
-2. Salad Preheat oven to 375 degrees.
-3. Arrange the chopped walnuts on a baking sheet in a single layer. Bake in oven until lightly toasted, about 10 minutes.
-4. In a large bowl, combine the toasted walnuts, dried cranberries , mixed greens , apples , and blue cheese . Add the vinaigrette and toss to coat.
+1. Rehydrate the cranberries in a small bowl of hot water for about 30 minutes. Drain and set aside.
+2. In a blender combine the hydrated cranberries, red wine vinegar , balsamic vinegar , mustard , salt, and pepper . Blend until smooth. Continue to run the blender and slowly add the oil to the mixture until it thickens and is emulsified.
+3. Salad Preheat oven to 375 degrees.
+4. Arrange the chopped walnuts on a baking sheet in a single layer. Bake in oven until lightly toasted, about 10 minutes.
+5. In a large bowl, combine the toasted walnuts, dried cranberries , mixed greens , apples , and blue cheese . Add the vinaigrette and toss to coat.
 
 ## Notes
 
