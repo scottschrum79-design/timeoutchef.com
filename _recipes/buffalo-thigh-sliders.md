@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- chicken
+- appetizer
 title: "Buffalo Thigh Sliders"
 ---
 
