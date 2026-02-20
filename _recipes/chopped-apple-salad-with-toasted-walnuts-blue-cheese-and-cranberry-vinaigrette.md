@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- salad
+- appetizer
 title: "Chopped Apple Salad with Toasted Walnuts, Blue Cheese and Cranberry Vinaigrette"
 ---
 
