@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- seafood
+- entree
+- main
 title: "Chili BBQ Salmon"
 ---
 
