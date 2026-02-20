@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- appetizer
+- snack
 title: "Corn Dogs"
 ---
 
@@ -13,8 +16,7 @@ title: "Corn Dogs"
 - 1 tsp baking powder
 - 1/4 tsp baking soda
 - 1/2 tsp cayenne pepper
-- 1 jalapeno pepper, seeded,
-- diced
+- 1 jalapeno pepper, seeded, diced
 - 1 (8.5 oz) can cream -style corn
 - 1/2 onion , finely chopped
 - 1 ½ cups milk
