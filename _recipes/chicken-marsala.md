@@ -11,13 +11,10 @@ title: "Chicken Marsala"
 
 ## Ingredients
 
-- 4 skinless, boneless, chicken
-- breasts
+- 4 skinless, boneless, chicken breasts
 - flour
-- 4 oz prosciutto, pancetta, or
-- bacon, chopped
-- 8 oz crimini, porcini, or shitake
-- mushrooms, sliced
+- 4 oz prosciutto, pancetta, or bacon, chopped
+- 8 oz crimini, porcini, or shitake mushrooms, sliced
 - 1/2 cup marsala wine
 - 1/2 cup chicken stock
 - 2 TBSP butter
