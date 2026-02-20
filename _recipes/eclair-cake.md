@@ -16,7 +16,7 @@ tags:
 - pudding
 - graham crackers
 - ganache
-title: Éclair Cake (No-Bake)
+title: Eclair Cake (No-Bake)
 total_time: 8 hours 55 minutes
 ---
 
