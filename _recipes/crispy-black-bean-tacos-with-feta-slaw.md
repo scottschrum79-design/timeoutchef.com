@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- vegetarian 
+- main
+- entree
 title: "Crispy Black Bean Tacos with Feta & Slaw"
 ---
 
