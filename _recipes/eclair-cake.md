@@ -27,12 +27,12 @@ total_time: 8 hours 55 minutes
 -   24 graham crackers
 -   2 (3.4 oz) packages vanilla instant pudding mix
 -   2 1/3 cups cold milk
--   1 (8 oz) tub whipped topping, thawed
+-   12 oz whipped topping (1.5 tubs), thawed
 
 ### Chocolate Ganache Topping
 
--   8 oz semi-sweet chocolate bars or chips (chopped if using bars)
--   1 cup heavy cream
+-   12 oz semi-sweet chocolate bars or chips (chopped if using bars)
+-   1 1/2 cup heavy cream
 
 ## Instructions
 
