@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- seafood
+- sandwich
 title: "Blackened Shrimp Po'Boy"
 ---
 
