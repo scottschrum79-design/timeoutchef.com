@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- salad
+- appetizer
 title: "Buffalo Chicken Salad"
 ---
 
@@ -7,20 +10,19 @@ title: "Buffalo Chicken Salad"
 
 ## Ingredients
 
-- 2 hearts romaine lettuce,
-- chopped
+- 2 hearts romaine lettuce, chopped
 - 1 cup carrots , shredded
 - 2 ribs celery, chopped
 - 1/2 cup ranch dressing
 - 1/2 cup blue cheese , crumbled
-- 1 lb chicken, boneless & skinless ,
-- cubed
+- 1 lb chicken, boneless & skinless , cubed
 - 2 TBSP butter
-- 1/4 cup hot sauce Combine lettuce , carrots and celery in a salad bowl.
+- 1/4 cup hot sauce 
 
 ## Directions
 
-1. Combine ranch dressing and blue cheese crumbles in a small bowl.
-2. Heat a medium skillet to medium high. Add a swirl of oil, butter , and the chicken to the pan . Season with salt and pepper and sear for 2 or 3 minutes, then add hot sauce .
-3. Reduce heat a little and cook 5 minutes more.
-4. Toss salad with dressing and season with salt and pepper. Top salad with b uffalo chicken and serve.
+1. Combine lettuce , carrots and celery in a salad bowl.
+2. Combine ranch dressing and blue cheese crumbles in a small bowl.
+3. Heat a medium skillet to medium high. Add a swirl of oil, butter , and the chicken to the pan . Season with salt and pepper and sear for 2 or 3 minutes, then add hot sauce .
+4. Reduce heat a little and cook 5 minutes more.
+5. Toss salad with dressing and season with salt and pepper. Top salad with buffalo chicken and serve.
