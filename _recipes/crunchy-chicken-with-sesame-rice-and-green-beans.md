@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- chicken
+- entree
+- main
 title: "Crunchy Chicken with Sesame Rice and Green Beans"
 ---
 
@@ -16,9 +20,7 @@ title: "Crunchy Chicken with Sesame Rice and Green Beans"
 - 2 cups panko bread crumbs
 - 1 tsp chili powder
 - 2 eggs, beaten
-- 1 ½ to 2 lbs chicken breast ,
-- boneless, skinless, cut into 1”
-- strips
+- 1 ½ to 2 lbs chicken breast , boneless, skinless, cut into 1” strips
 - 2 lbs green beans
 
 ## Directions
