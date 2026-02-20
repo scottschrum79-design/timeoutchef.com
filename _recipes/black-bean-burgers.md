@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: receipe
+categories:
+- vegetarian
+- burger
 title: "Black Bean Burgers"
 ---
 
