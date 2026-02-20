@@ -1,6 +1,7 @@
 ---
-layout: receipe
+layout: recipe
 categories:
+- vegetarian
 - appetizer
 title: "Brie en Croute"
 ---
