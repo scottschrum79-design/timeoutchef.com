@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- chicken
+- entree
+- main
 title: "Chicken Marsala"
 ---
 
