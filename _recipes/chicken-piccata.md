@@ -11,8 +11,7 @@ title: "Chicken Piccata"
 
 ## Ingredients
 
-- 4 skinless, boneless, chicken
-- breasts
+- 4 skinless, boneless, chicken breasts
 - flour
 - 1/3 cup lemon juice
 - 1/2 cup chicken stock
