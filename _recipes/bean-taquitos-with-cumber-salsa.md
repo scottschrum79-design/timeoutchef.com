@@ -1,5 +1,5 @@
 ---
-layout: receipe
+layout: recipe
 categories:
 - vegetarian
 - mexican
