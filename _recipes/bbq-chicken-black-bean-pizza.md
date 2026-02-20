@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories: 
+- chicken
+- pizza
 title: "BBQ Chicken & Black Bean Pizza"
 ---
 
