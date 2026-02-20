@@ -11,11 +11,9 @@ title: "Brownie Bottom Lemon Cheesecake"
 
 ### For the crust
 - 6 TBSP flour
-- 1 ½ tsp unsweetened cocoa
-- powder
+- 1 ½ tsp unsweetened cocoa powder
 - 1/8 tsp salt
-- 3 oz bittersweet chocolate,
-- chopped
+- 3 oz bittersweet chocolate, chopped
 - 1/2 stick butter
 - 3/4 cup sugar
 - 1/4 cup brown sugar
