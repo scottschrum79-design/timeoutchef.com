@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: receipe
+categories:
+- vegetarian
+- mexican
 title: "Bean Taquitos with Cumber Salsa"
 ---
 
