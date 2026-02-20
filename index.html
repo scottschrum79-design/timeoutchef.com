@@ -2,9 +2,39 @@
 layout: default
 title: Home
 ---
+<style>
+.hero{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:18px;
+  padding:28px 16px;
+  text-align:left;
+}
+.hero .site-logo{
+  height:72px;
+  width:auto;
+  flex:0 0 auto;
+}
+.hero .hero-copy h1{
+  margin:0;
+  line-height:1.05;
+}
+.hero .hero-copy p{
+  margin:6px 0 0;
+  opacity:.9;
+}
+@media (max-width: 520px){
+  .hero{flex-direction:column; text-align:center;}
+  .hero .site-logo{height:64px;}
+}
+</style>
 <section class="hero">
-  <h1>TimeOut Chef Recipes</h1>
-  <p>Search and click a recipe.</p>
+  <img class="site-logo" src="/images/timeoutchef-logo.png" alt="TimeOutChef">
+  <div class="hero-copy">
+    <h1>TimeOut Chef Recipes</h1>
+    <p>Search and click a recipe.</p>
+  </div>
 </section>
 
 <div class="search">
