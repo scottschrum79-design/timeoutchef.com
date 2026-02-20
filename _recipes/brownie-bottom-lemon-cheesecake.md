@@ -1,11 +1,14 @@
 ---
-layout: default
+layout: recipe
+categories:
+- dessert
 title: "Brownie Bottom Lemon Cheesecake"
 ---
 
 <p class="pill">Serves 10 – 12</p>
 
 ## Ingredients
+
 ### For the crust
 - 6 TBSP flour
 - 1 ½ tsp unsweetened cocoa
@@ -18,6 +21,7 @@ title: "Brownie Bottom Lemon Cheesecake"
 - 1/4 cup brown sugar
 - 1 egg
 - 1/2 tsp vanilla extract
+
 ### For the Filling
 - 40 oz cream cheese, room temperature
 - 1 ¾ cups sugar
@@ -28,10 +32,12 @@ title: "Brownie Bottom Lemon Cheesecake"
 - 2 egg yolks
 - 1/2 cup sour cream
 - 1/4 cup heavy whipping cream
+
 ### For the Topping
 - 1 cup sour cream
 - Bittersweet chocolate curls or shavings
 - 1 lemon, halved lengthwise, thinly sliced crosswise
+
 ### Special equipment
 - 9” diameter springform pan, about 3” high
 
