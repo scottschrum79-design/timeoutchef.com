@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- main
+- beef
+- greek
 title: "Greek Meatball Pita Sandwiches with Roasted Green Beans and Almonds"
 ---
 
