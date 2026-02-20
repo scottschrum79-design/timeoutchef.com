@@ -36,4 +36,3 @@ title: "Greek Meatball Pita Sandwiches with Roasted Green Beans and Almonds"
 ## Notes
 
 - If you do not have or cannot find Greek style yogurt you can strain plain yogurt with a coffee filter or several paper towels overnight in the refrigerator, discard the liquid. You can use a whole pita to make a larger sandwich and also add some shredded lettuce, sliced tomatoes and onions to the sandwich.
-- 44 Sliced Steak with Caper Sauce and Broiled
