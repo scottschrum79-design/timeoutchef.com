@@ -15,8 +15,7 @@ title: "Crab Nachos"
 - 1/4 t sp cayenne pepper
 - 1 bag blue corn tortilla , divided
 - 1 lb lump crabmeat , divided
-- 1 cup cooked fresh corn kernels,
-- fresh or ca nned, divided
+- 1 cup cooked fresh corn kernels, fresh or canned, divided
 - 2 cups grated Cheddar , divided
 - 1/4 cup scallions , chopped
 - 3/4 cup sour cream
