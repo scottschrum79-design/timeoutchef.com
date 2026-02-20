@@ -1,6 +1,10 @@
 ---
-layout: default
-title: "Fettuccine with Bab y Vegetables and Lemon Parmesan Sauce"
+layout: recipe
+categories:
+- vegetarian
+- main
+- pasta
+title: "Fettuccine with Baby Vegetables and Lemon Parmesan Sauce"
 ---
 
 <p class="pill">Serves 3 – 4</p>
@@ -10,11 +14,8 @@ title: "Fettuccine with Bab y Vegetables and Lemon Parmesan Sauce"
 - 8 oz spinach fettuccine
 - 8 oz fettuccine
 - 1 onion, halved, thinly sliced
-- 8 oz zucchini & squash (yellow &
-- green) , halved , thinly sliced
-- longwise
-- 8 oz green beans, fresh or frozen
-- (thawed)
+- 8 oz zucchini & squash (yellow & green) , halved , thinly sliced longwise
+- 8 oz green beans, fresh or frozen (thawed)
 - 1 lemon, zested & juiced
 - 1 cup Parme san, grated
 - 1/3 cup heavy whipping cream
