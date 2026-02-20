@@ -10,8 +10,7 @@ title: "Buffalo Thigh Sliders"
 
 ## Ingredients
 
-- 8 skinless chicken thighs, fat
-- trimmed off
+- 8 skinless chicken thighs, fat trimmed off
 - onion powder
 - garlic powder
 - 3 TBSP butter
