@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- appetizer
+- vegetarian
 title: "Kalamata Olive Hummus"
 ---
 
@@ -7,11 +10,9 @@ title: "Kalamata Olive Hummus"
 
 ## Ingredients
 
-- 1 can (15 oz) garbanzo beans
-- (chickpeas), drained & rinsed
-- 1/2 cup Kalamata o lives
-- 1 TBSP o live juice brine from
-- Kalamata olives
+- 1 can (15 oz) garbanzo beans (chickpeas), drained & rinsed
+- 1/2 cup Kalamata olives
+- 1 TBSP olive juice brine from Kalamata olives
 - 2 TBSP lemon juice
 - 2 TBSP olive oil , plus extra
 - 2 garlic cloves , peeled
