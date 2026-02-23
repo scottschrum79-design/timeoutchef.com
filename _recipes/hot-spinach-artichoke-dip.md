@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- appetizer
+- vegetarian
 title: "Hot Spinach & Artichoke Dip"
 ---
 
@@ -7,10 +10,8 @@ title: "Hot Spinach & Artichoke Dip"
 
 ## Ingredients
 
-- 1 cup frozen spinach, thawed ,
-- chopped
-- 1 ½ cups frozen artichoke
-- hearts, thawed , chopped
+- 1 cup frozen spinach, thawed , chopped
+- 1 ½ cups frozen artichoke hearts, thawed , chopped
 - 6 oz cream cheese
 - 1/4 cup sour cream
 - 1/4 cup mayonnaise
