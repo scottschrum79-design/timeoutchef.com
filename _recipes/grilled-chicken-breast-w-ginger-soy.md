@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- main
+- chicken
 title: "Grilled Chicken Breast w/ Ginger Soy"
 ---
 
