@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- appetizer
+- chicken
 title: "Grilled Hot -Sweet Chicken Wings"
 ---
 
