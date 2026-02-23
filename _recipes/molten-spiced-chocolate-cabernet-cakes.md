@@ -7,19 +7,19 @@ title: "Molten Spiced Chocolate Cabernet Cakes"
 
 ## Ingredients
 
+- 4 oz chocolate
 - 1/2 cup (1 stick) butter
-- 1 TBSP cabernet or other red
-- wine
+- 1 TBSP cabernet or other red wine
 - 1 tsp vanilla extract
-- 1 cup confectioner’s sugar , plus
-- extra for garnish
+- 1 cup confectioner’s sugar , plus extra for garnish
 - 2 eggs
 - 1 egg yolk
 - 6 TBSP flour
 - 1/4 tsp cinnamon
 - 1/4 tsp ground ginger
 - 1/8 tsp ground cloves
-- Special equipment
+
+## Special equipment
 - 6 oz soufflé cups
 
 ## Directions
