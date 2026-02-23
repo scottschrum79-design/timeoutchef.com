@@ -8,8 +8,7 @@ title: "Grilled Chicken Breast w/ Ginger Soy"
 ## Ingredients
 
 - 2 cucumbers, thinly sliced
-- 2 hot red chile s, seeded and
-- chopped
+- 2 hot red chile s, seeded and chopped
 - Handful of mint leaves
 - 2 cups rice vinegar
 - 4 tsp sugar
@@ -20,8 +19,7 @@ title: "Grilled Chicken Breast w/ Ginger Soy"
 - 4 inches fresh ginger, chopped
 - 2 garlic cloves, chopped
 - cilantro, chopped , handful
-- 4 boneless, skinless chicken
-- breasts, pounded thin
+- 4 boneless, skinless chicken breasts, pounded thin
 
 ## Directions
 
