@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- main
+- beef
+- burger
 title: "Jalapeño, Avocado and Bacon Burgers"
 ---
 
@@ -7,20 +11,20 @@ title: "Jalapeño, Avocado and Bacon Burgers"
 
 ## Ingredients
 
-- 4 jalapeño chiles , seeded,
-- minced, divided
+- 4 jalapeño chiles , seeded, minced, divided
 - 4 slices bacon
-- 2 lbs ground beef, 80% to 85%
-- lean
-- 1/2 cup (about 2 oz ) crumbled
-- feta or goat cheese
+- 2 lbs ground beef, 80% to 85% lean
+- 1/2 cup (about 2 oz ) crumbled feta or goat cheese
 - 1/2 cup mayonnaise
 - 1/4 cup milk or sour cream
-- 1 avocados, pitted and thinly
+- 1 avocados, pitted and thinly sliced
+- 1 bunch cilantro, chopped
+- 1/2 onion, thinly sliced
+- 4 hamburger buns
 
 ## Directions
 
-1. sliced 1 bunch cilantro, chopped 1/2 onion, thinly sliced 4 hamburger buns Preheat a grill to medium.
+1. Preheat a grill to medium.
 2. Cook the bacon in the skillet until crisp, about 5 minutes.
 3. Discard all but 1 spoonful of bacon fat. Once cool chop the bacon and set aside.
 4. In a large bowl, combine the chopped bacon, the r eserved bacon fat, the beef , half of the chiles , and a pinch of salt and pepper .
