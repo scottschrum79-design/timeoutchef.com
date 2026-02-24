@@ -1,7 +1,12 @@
 ---
-layout: default
+layout: recipe
+categories:
+- desert
+- vegetarian
 title: "Lemon Panna Cotta with Strawberry Sauce"
 ---
+
+
 
 <p class="pill">Serves 4</p>
 
