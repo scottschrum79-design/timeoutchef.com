@@ -7,18 +7,24 @@ title: "Lemon Panna Cotta with Strawberry Sauce"
 ---
 
 ## Ingredients
+
 ## Filling
+
 - 1 /3 cup sugar
 - 2 lemons, zested
 -  1 tsp vanilla extract
 -  1 cup half-and-half
 -  1/2 TBSP unflavored powdered gelatin ( 1 packet )
 -  1 cups heavy cream, chilled
+
 ## Sauce 
+
 - 2 pints (4 cups) sliced fresh strawberries
 - 2 ½ TBSP balsamic vinegar
 - 1 TBSP Sugar
+
 ## Toppinig 
+
 - 1 lemon, zested 
 
 
