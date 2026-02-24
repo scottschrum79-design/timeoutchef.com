@@ -7,7 +7,6 @@ title: "Lemon Panna Cotta with Strawberry Sauce"
 ---
 
 ## Ingredients
-
 ## Filling
 - 1 /3 cup sugar
 - 2 lemons, zested
