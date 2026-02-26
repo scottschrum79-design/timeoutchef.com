@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- pork
+- main
+- entree
 title: "Pork Tenderloin with Tomato Peach Compote"
 ---
 
