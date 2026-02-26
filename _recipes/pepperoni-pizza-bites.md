@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: recipe
+categories:
+- appetizer
 title: "Pepperoni Pizza Bites"
 ---
 
@@ -23,13 +25,13 @@ title: "Pepperoni Pizza Bites"
 ## Directions
 
 1. Preheat the oven to 375°.
-2. Grease a 24 -cup mini -muffin pan.
+2. Grease a 24-cup mini-muffin pan.
 3. In a large bowl, whisk together the flour and baking powder .
 4. Then whisk in the milk and egg. Stir in the mozzarella and pepperoni . Let stand for 10 minutes.
 5. Stir the batter and divide among the mini -muffin cups. Bake until puffed and golden, 20 to 25 minutes.
 6. Heat the sauce in the microwave or on the stove .
 7. Sprinkle the puffs with the basil .
-8. Serve the puffs with the sauce for di pping.
+8. Serve the puffs with the sauce for dipping.
 
 ## Notes
 
