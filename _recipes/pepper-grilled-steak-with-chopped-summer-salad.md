@@ -1,5 +1,11 @@
 ---
-layout: default
+layout: recipe
+categories:
+- entree
+- main
+- steak
+- beef
+- salad
 title: "Pepper -Grilled Steak with Chopped Summer Salad"
 ---
 
