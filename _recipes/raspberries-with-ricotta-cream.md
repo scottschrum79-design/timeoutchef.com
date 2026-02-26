@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- vegetarian
+- dessert
 title: "Raspberries with Ricotta Cream"
 ---
 
