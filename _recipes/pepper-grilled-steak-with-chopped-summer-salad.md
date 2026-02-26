@@ -10,17 +10,14 @@ title: "Pepper -Grilled Steak with Chopped Summer Salad"
 - 2 large garlic cloves, pressed
 - 1 ¾ tsp ground black pepper
 - 1 ¼ tsp salt
-- 2 lb top sirloin steak , about 1 ½”
-- thick
+- 2 lb top sirloin steak , about 1 ½” thick
 - 1 cup tomatoes , diced
 - 1 cup baby arugula
 - 1/2 cup red onion , diced
 - 1/2 cup feta cheese , crumb led
-- 3 TBSP Kalamata olives , pitted,
-- chopped
+- 3 TBSP Kalamata olives , pitted, chopped
 - 1 ½ TBSP olive oil
-- 1 jalapeño chili, seeded, finely
-- chopped
+- 1 jalapeño chili, seeded, finely chopped
 
 ## Directions
 
