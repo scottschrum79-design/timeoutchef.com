@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- salad
+- appetizer
+- vegetarian
 title: "Mozzarella and Bread Salad"
 ---
 
@@ -7,19 +11,15 @@ title: "Mozzarella and Bread Salad"
 
 ## Ingredients
 
-- 6 cups bread, cubed (preferably
-- stale)
-- 2 tomatoes, medium, seeded,
-- chopped
-- 2 cups baby spinach , approx 1
-- bag
+- 6 cups bread, cubed (preferably stale)
+- 2 tomatoes, medium, seeded, chopped
+- 2 cups baby spinach , approx 1 bag
 - 1 red pepper, diced
 - 1 zucchini, diced
 - 6 oz mozzarella, cubed
 - 1/4 cup balsamic vinegar
 - 1 ½ TBSP olive oil
-- 2 tsp capers, rinsed, drained,
-- finely chopped
+- 2 tsp capers, rinsed, drained, finely chopped
 - 1 garlic clove, minced
 
 ## Directions
@@ -32,4 +32,4 @@ title: "Mozzarella and Bread Salad"
 
 - Unlike most salads, this salad is just as good or better the next day because the bread soaks up more of the dressing.
 - Also, for some extra color , the tomatoes can be replaced by different color cherry tomatoes that have been sliced in half.
-- 14 Chopped Apple Salad with Toasted Walnuts,
+
