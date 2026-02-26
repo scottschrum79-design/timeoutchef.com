@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- vegetarian
+- sauce
 title: "Roasted Tomato Sauce"
 ---
 
