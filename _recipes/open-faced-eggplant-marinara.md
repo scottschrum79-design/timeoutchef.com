@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- vegetarian
+- appetizer
 title: "Open Faced Eggplant Marinara"
 ---
 
