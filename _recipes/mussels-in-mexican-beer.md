@@ -7,12 +7,17 @@ title: "Mussels in Mexican Beer"
 
 ## Ingredients
 
-- 2 ½ dozen mussels, approx 1
-- bag, scrubbed and beards
+- 2 ½ dozen mussels, approx 1 bag, scrubbed and beards removed
+- 4 cloves garlic, crushed
+- 1 small onion, chopped
+- 1 jalapeno, seeded and chopped
+- 1/2 bottle dark beer
+- 1 (15 oz) can diced tomato
+- 2 TBSP cilantro , chopped
 
 ## Directions
 
-1. removed 4 cloves garlic, crushed 1 small onion, chopped 1 jalapeno, seeded and chopped 1/2 bottle dark beer 1 (15 oz) can diced tomato 2 TBSP cilantro , chopped Place mussels in a large pot or bowl; fill with enough cold water to cover them. Pour in several spoonfuls of salt and let stand for 15 minutes up to 3 hours. Drain and rinse the mussels discarding any open mussels and removing any beards.
+1. Place mussels in a large pot or bowl; fill with enough cold water to cover them. Pour in several spoonfuls of salt and let stand for 15 minutes up to 3 hours. Drain and rinse the mussels discarding any open mussels and removing any beards.
 2. In a large skillet, that has a lid, heat uncovered over medium high heat . Add 2 swirls of olive oil, garlic , onion and jalapeno .
 3. Sauté for 2 minutes. Gently add the mussels to the pan. Pour in beer and tomatoes and shake the pan to combine. Cover pan and cook until mussels open , abou t 3 to 5 minutes . Remove from heat. Discard any unopened mussels. Sprinkle with cilantro and serve .
 
