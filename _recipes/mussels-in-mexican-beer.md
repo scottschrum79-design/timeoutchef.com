@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- seafood
+- appetizer
 title: "Mussels in Mexican Beer"
 ---
 
