@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: recipe
+categories:
+- desert
+- vegetarian
 title: "Molten Spiced Chocolate Cabernet Cakes"
 ---
 
