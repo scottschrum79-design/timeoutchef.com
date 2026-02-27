@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - main
 - chicken
+serves: 4
 title: "Grilled Chicken Breast w/ Ginger Soy"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
