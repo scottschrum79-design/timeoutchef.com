@@ -7,7 +7,6 @@ serves: 2-3
 title: "BBQ Chicken & Black Bean Pizza"
 ---
 
-<p class="pill">Serves 2 – 3</p>
 
 ## Ingredients
 
