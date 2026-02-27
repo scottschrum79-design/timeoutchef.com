@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - chicken
 - appetizer
+serves: 3-4
 title: "Buffalo Thigh Sliders"
 ---
 
-<p class="pill">Serves 3 – 4</p>
 
 ## Ingredients
 
