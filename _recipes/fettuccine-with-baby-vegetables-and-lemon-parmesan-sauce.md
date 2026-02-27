@@ -4,10 +4,10 @@ categories:
 - vegetarian
 - main
 - pasta
+serves: 3-4
 title: "Fettuccine with Baby Vegetables and Lemon Parmesan Sauce"
 ---
 
-<p class="pill">Serves 3 – 4</p>
 
 ## Ingredients
 
