@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - appetizer
 - chicken
+serves: 4
 title: "Grilled Hot -Sweet Chicken Wings"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
