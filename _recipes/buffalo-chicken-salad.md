@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - salad
 - appetizer
+serves: 3-4
 title: "Buffalo Chicken Salad"
 ---
 
-<p class="pill">Serves 3 – 4</p>
 
 ## Ingredients
 
