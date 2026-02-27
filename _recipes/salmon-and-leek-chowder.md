@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: recipe
+categories:
+- seafood
+- soup
+- appetizer
 title: "Salmon and Leek Chowder"
 ---
 
@@ -7,18 +11,15 @@ title: "Salmon and Leek Chowder"
 
 ## Ingredients
 
-- 2 leeks, white and light green
-- parts only, chopped
+- 2 leeks, white and light green parts only, chopped
 - 1 TBSP butter, room temp
 - 1 TBSP flour
 - 4 bacon slices
-- 2 ½ pounds potatoes, peeled &
-- cubed
+- 2 ½ pounds potatoes, peeled & cubed
 - 5 cups chicken stock
 - 1 ½ tsp smoked paprika
 - 1 lb salmon fillets, cubed
-- 2 cups baby spinach , approx 1
-- bag
+- 2 cups baby spinach , approx 1 bag
 - 1/2 cup whipping cream
 - 2 TBSP Chives, fresh, chopped
 
@@ -30,4 +31,4 @@ title: "Salmon and Leek Chowder"
 
 ## Notes
 
-- If you do not have chicken stock or bouillon to make stock you can use water, but the stock gives the chowder added flavor. Also if you do not want your chowder thick and want a soup style instead leave out the butter and flou r mixture as well as the crea m.
+- If you do not have chicken stock or bouillon to make stock you can use water, but the stock gives the chowder added flavor. Also if you do not want your chowder thick and want a soup style instead leave out the butter and flour mixture as well as the cream.
