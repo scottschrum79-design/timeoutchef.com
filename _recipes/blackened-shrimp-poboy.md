@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - seafood
 - sandwich
+serves: 4
 title: "Blackened Shrimp Po'Boy"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
