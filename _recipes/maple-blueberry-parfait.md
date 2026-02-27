@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - desert
 - vegetarian
+serves: 6
 title: "Maple Blueberry Parfait"
 ---
 
-<p class="pill">Serves 6</p>
 
 ## Ingredients
 
