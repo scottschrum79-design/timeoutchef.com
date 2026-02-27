@@ -3,10 +3,9 @@ layout: recipe
 categories:
 - vegetarian
 - dessert
+serves: 4
 title: "Raspberries with Ricotta Cream"
 ---
-
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
