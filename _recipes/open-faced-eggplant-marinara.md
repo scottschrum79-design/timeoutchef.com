@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - vegetarian
 - appetizer
+serves: 4
 title: "Open Faced Eggplant Marinara"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
