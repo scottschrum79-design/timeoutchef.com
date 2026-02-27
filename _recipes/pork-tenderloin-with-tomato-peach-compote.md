@@ -4,10 +4,10 @@ categories:
 - pork
 - main
 - entree
+serves: 4
 title: "Pork Tenderloin with Tomato Peach Compote"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
