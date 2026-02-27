@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - appetizer
 - vegetarian
+serves: 4-6
 title: "Kalamata Olive Hummus"
 ---
 
-<p class="pill">Serves 4 – 6</p>
 
 ## Ingredients
 
