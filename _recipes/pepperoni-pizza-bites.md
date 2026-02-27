@@ -19,7 +19,9 @@ title: "Pepperoni Pizza Bites"
 - cubes (about 1 cup)
 - 1/2 cup marinara sauce
 - 1 TBSP basil , finely chopped
-- Special Equipment
+  
+## Special Equipment
+
 - mini -muffin pan
 
 ## Directions
