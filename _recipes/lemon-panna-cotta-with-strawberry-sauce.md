@@ -3,6 +3,7 @@ layout: recipe
 categories:
 - desert
 - vegetarian
+serves: 4
 title: "Lemon Panna Cotta with Strawberry Sauce"
 ---
 
@@ -27,8 +28,6 @@ title: "Lemon Panna Cotta with Strawberry Sauce"
 
 - 1 lemon, zested 
 
-
-<p class="pill">Serves 4</p>
 
 ## Directions
 
