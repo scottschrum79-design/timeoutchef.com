@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - seafood
 - appetizer
+serves: 2
 title: "Mussels in Mexican Beer"
 ---
 
-<p class="pill">Serves 2</p>
 
 ## Ingredients
 
