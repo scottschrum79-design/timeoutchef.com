@@ -4,10 +4,10 @@ categories:
 - beef
 - entree
 - main
+serves: 2
 title: "Salisbury Steak"
 ---
 
-<p class="pill">Serves 2</p>
 
 ## Ingredients
 
