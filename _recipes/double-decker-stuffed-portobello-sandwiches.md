@@ -4,10 +4,10 @@ categories:
 - vegetarian
 - burger
 - main
+serves: 2
 title: "Double – Decker Stuffed Portobello Sandwiches"
 ---
 
-<p class="pill">Serves 2</p>
 
 ## Ingredients
 
