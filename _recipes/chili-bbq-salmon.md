@@ -4,10 +4,10 @@ categories:
 - seafood
 - entree
 - main
+serves: 4
 title: "Chili BBQ Salmon"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
