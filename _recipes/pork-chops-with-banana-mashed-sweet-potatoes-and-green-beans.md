@@ -4,10 +4,10 @@ categories:
 - pork
 - main
 - entree
+serves: 4
 title: "Pork Chops with Banana – Mashed Sweet Potatoes and Green Beans"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
