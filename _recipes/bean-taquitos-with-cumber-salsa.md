@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - vegetarian
 - mexican
+- serves: 3-4
 title: "Bean Taquitos with Cumber Salsa"
 ---
 
-<p class="pill">Serves 3 – 4</p>
 
 ## Ingredients
 
