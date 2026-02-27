@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - seafood
 - appetizer
+serves: 6-8
 title: "Crab Nachos"
 ---
 
-<p class="pill">Serves 6 – 8</p>
 
 ## Ingredients
 
