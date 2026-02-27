@@ -4,10 +4,10 @@ categories:
 - main
 - beef
 - burger
+serves: 4
 title: "Jalapeño, Avocado and Bacon Burgers"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
