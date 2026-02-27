@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - desert
 - vegetarian
+serves: 4
 title: "Molten Spiced Chocolate Cabernet Cakes"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
