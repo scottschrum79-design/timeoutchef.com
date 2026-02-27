@@ -3,10 +3,9 @@ layout: recipe
 categories:
 - main
 - pork
+serves: 4
 title: "Island Pale Ale Chili"
 ---
-
-<p class="pill">Serves 4 -6</p>
 
 ## Ingredients
 
