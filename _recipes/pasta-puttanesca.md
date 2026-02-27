@@ -5,10 +5,10 @@ categories:
 - pasta
 - main
 - entree
+serves: 3-4
 title: "Pasta Puttanesca"
 ---
 
-<p class="pill">Serves 3 – 4</p>
 
 ## Ingredients
 
