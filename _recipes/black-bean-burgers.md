@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - vegetarian
 - burger
+serves: 2-3
 title: "Black Bean Burgers"
 ---
 
-<p class="pill">Serves 2 – 3</p>
 
 ## Ingredients
 
