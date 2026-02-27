@@ -4,10 +4,10 @@ categories:
 - main
 - beef
 - greek
+serves: 2-3
 title: "Greek Meatball Pita Sandwiches with Roasted Green Beans and Almonds"
 ---
 
-<p class="pill">Serves 2 – 3</p>
 
 ## Ingredients
 
