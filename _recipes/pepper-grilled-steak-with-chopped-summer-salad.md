@@ -6,10 +6,10 @@ categories:
 - steak
 - beef
 - salad
+serves: 4
 title: "Pepper -Grilled Steak with Chopped Summer Salad"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
