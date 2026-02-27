@@ -4,10 +4,10 @@ categories:
 - chicken
 - entree
 - main
+serves: 4
 title: "Crunchy Chicken with Sesame Rice and Green Beans"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
