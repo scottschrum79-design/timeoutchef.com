@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - main
 - pizza
+serves: 2
 title: "Grilled Sausage and Fig Pizza"
 ---
 
-<p class="pill">Serves 2</p>
 
 ## Ingredients
 
