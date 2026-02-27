@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - salad
 - appetizer
+serves: 4
 title: "Chopped Apple Salad with Toasted Walnuts, Blue Cheese and Cranberry Vinaigrette"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
