@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - appetizer
 - snack
+serves: 4-8
 title: "Corn Dogs"
 ---
 
-<p class="pill">Serves 4 – 8</p>
 
 ## Ingredients
 
