@@ -1,14 +1,16 @@
 ---
-layout: default
+layout: recipe
+categories:
+- side
+- entree
+serves: 4
 title: "Sausage Risotto with Spring Greens"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
-- 1 bunch bitter greens, such as
-- arugula or dandelion greens
+- 1 bunch bitter greens, such as arugula or dandelion greens
 - 5 cups chicken broth
 - 4 TBSP butter
 - 1 small onion, chopped
