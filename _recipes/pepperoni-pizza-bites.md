@@ -2,10 +2,10 @@
 layout: recipe
 categories:
 - appetizer
+serves: 12-24 servings
 title: "Pepperoni Pizza Bites"
 ---
 
-<p class="pill">Serves approx 12 or 24 servings</p>
 
 ## Ingredients
 
