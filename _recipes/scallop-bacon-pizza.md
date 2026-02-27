@@ -1,9 +1,13 @@
 ---
-layout: default
+layout: recipe
+categories:
+- seafood
+- pizza
+- main
+- entree
+serves: 2-3
 title: "Scallop & Bacon Pizza"
 ---
-
-<p class="pill">Serves 2 – 3</p>
 
 ## Ingredients
 
@@ -13,8 +17,7 @@ title: "Scallop & Bacon Pizza"
 - 1/2 lb bacon, cooked, chopped
 - 1 ½ cups mozzarella , shredded
 - 1 ½ cups Parmesan , grated
-- 6 large scallops , cut into quarters
-- or eighths, depending on size
+- 6 large scallops , cut into quarters or eighths, depending on size
 
 ## Directions
 
