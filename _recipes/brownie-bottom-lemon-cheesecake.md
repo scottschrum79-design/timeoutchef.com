@@ -2,10 +2,10 @@
 layout: recipe
 categories:
 - dessert
+serves: 10-12
 title: "Brownie Bottom Lemon Cheesecake"
 ---
 
-<p class="pill">Serves 10 – 12</p>
 
 ## Ingredients
 
