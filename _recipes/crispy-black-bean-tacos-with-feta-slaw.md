@@ -4,10 +4,10 @@ categories:
 - vegetarian 
 - main
 - entree
+serves: 3-4
 title: "Crispy Black Bean Tacos with Feta & Slaw"
 ---
 
-<p class="pill">Serves 3 – 4</p>
 
 ## Ingredients
 
