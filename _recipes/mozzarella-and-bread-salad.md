@@ -4,10 +4,10 @@ categories:
 - salad
 - appetizer
 - vegetarian
+serves: 3-4
 title: "Mozzarella and Bread Salad"
 ---
 
-<p class="pill">Serves 3 – 4</p>
 
 ## Ingredients
 
