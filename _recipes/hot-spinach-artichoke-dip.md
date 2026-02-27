@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - appetizer
 - vegetarian
+serves: 4-6
 title: "Hot Spinach & Artichoke Dip"
 ---
 
-<p class="pill">Serves 4 – 6</p>
 
 ## Ingredients
 
