@@ -4,10 +4,10 @@ categories:
 - pasta
 - main
 - entree
+serves: 3-4
 title: "Pasta with Peas, Asparagus, and Bacon"
 ---
 
-<p class="pill">Serves 3 – 4</p>
 
 ## Ingredients
 
