@@ -4,10 +4,10 @@ categories:
 - chicken
 - entree
 - main
+serves: 4
 title: "Chicken Marsala"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
