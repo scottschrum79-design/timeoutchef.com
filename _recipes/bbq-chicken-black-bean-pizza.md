@@ -3,6 +3,7 @@ layout: recipe
 categories: 
 - chicken
 - pizza
+serves: 2-3
 title: "BBQ Chicken & Black Bean Pizza"
 ---
 
