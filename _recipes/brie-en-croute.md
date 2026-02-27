@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - vegetarian
 - appetizer
+serves: 4-6
 title: "Brie en Croute"
 ---
 
-<p class="pill">Serves 4 – 6</p>
 
 ## Ingredients
 
