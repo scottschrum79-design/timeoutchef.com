@@ -3,10 +3,10 @@ layout: recipe
 categories:
 - vegetarian
 - sauce
+serves: 2 jars
 title: "Roasted Tomato Sauce"
 ---
 
-<p class="pill">Serves about 2 jars</p>
 
 ## Ingredients
 
