@@ -1,14 +1,17 @@
 ---
-layout: default
+layout: recipe
+categories:
+- vegetarian
+- salad
+- side
+serves: 4
 title: "Warm Escarole Salad with Goat Cheese"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
-- 1 head of escarole, torn into
-- large bite -size pieces
+- 1 head of escarole, torn into large bite -size pieces
 - 2 bacon slices
 - 1/4 cup olive oil
 - 3 TBSP balsamic vinegar
