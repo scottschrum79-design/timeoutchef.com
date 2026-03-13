@@ -1,15 +1,18 @@
 ---
-layout: default
+layout: recipe
+categories:
+- seafood
+- asian
+- entree
+- main
+serves: 2-3
 title: "Shrimp Pad Thai"
 ---
-
-<p class="pill">Serves 2 – 3</p>
 
 ## Ingredients
 
 - 1/4 lb rice noodles
-- 1/2 lb shrimp, peeled &
-- deveined
+- 1/2 lb shrimp, peeled & deveined
 - 4 scallions, chopped
 - 2 garlic cloves, minced
 - 2 egg whites, beaten
@@ -18,8 +21,7 @@ title: "Shrimp Pad Thai"
 - 1 TBSP chili sauce
 - 1 TBSP soy sauce
 - 2 cups bean sprouts
-- 3 TBSP dry roasted peanuts ,
-- chopped
+- 3 TBSP dry roasted peanuts, chopped
 - 2 TBSP cilantro, chopped
 
 ## Directions
