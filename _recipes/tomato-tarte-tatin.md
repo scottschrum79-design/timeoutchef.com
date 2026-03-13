@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: recipe
+categories:
+- dessert
+serves: 6-8
 title: "Tomato Tarte Tatin"
 ---
 
-<p class="pill">Serves 6 – 8</p>
 
 ## Ingredients
 
