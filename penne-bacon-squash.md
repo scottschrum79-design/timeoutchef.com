@@ -1,9 +1,13 @@
 ---
-layout: default
-title: "Spinach"
+layout: recipe
+categories:
+- pasta
+- main
+- enteree
+serves: 4
+title: "Penne with Bacon, Butternut Squash and Spinach"
 ---
 
-<p class="pill">Serves 3 – 4</p>
 
 ## Ingredients
 
@@ -12,8 +16,7 @@ title: "Spinach"
 - 1 buttern ut squash, peeled and
 - seeded cut into medium cubes
 - 2 cups chicken broth
-- 2 1/2 cups baby spinach , about 1
-- bag
+- 2 1/2 cups baby spinach , about 1 bag
 - 2 cloves garlic, finely chopped
 - Basil, handful, cut into ribbons
 - 2 oz goat cheese.
@@ -30,4 +33,3 @@ title: "Spinach"
 ## Notes
 
 - If you do not have chicken stock you can save some of the cooked pasta water and use that to replace the stock. If you do not have goat cheese you can use grated parmesan cheese instead, about 1/4 cup.
-- 31 Fettuccine with Bab y Vegetables and Lemon
