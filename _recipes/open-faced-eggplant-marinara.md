@@ -10,16 +10,12 @@ title: "Open Faced Eggplant Marinara"
 
 ## Ingredients
 
-- 2 eggplants, cut into thicker
-- rounds
-- 1 loaf bread, Italian or French,
-- cut horizontally in half, sliced
-- into four equal sections
+- 2 eggplants, cut into thicker rounds
+- 1 loaf bread, Italian or French, cut horizontally in half, sliced into four equal sections
 - 1 jar marinara sauce
 - Parmesan cheese
-- 1 bunch of basil, chopped ,
-- several leaves set aside
-- 12 oz fresh mozzarella , sliced
+- 1 bunch of basil, chopped, several leaves set aside
+- 12 oz fresh mozzarella, sliced
 
 ## Directions
 
