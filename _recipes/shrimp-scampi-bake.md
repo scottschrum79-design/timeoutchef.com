@@ -1,14 +1,16 @@
 ---
-layout: default
+layout: recipe
+categories:
+- seafood
+- appetizer
+serves: 4-6
 title: "Shrimp Scampi Bake"
 ---
 
-<p class="pill">Serves 4 – 6</p>
 
 ## Ingredients
 
-- 2 lbs shrimp (med to large), raw,
-- thawed
+- 2 lbs shrimp (med to large), raw, thawed
 - 2 TBSP white wine
 - 1 ½ sticks butter, room temp
 - 4 cloves garlic, minced
