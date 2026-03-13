@@ -26,40 +26,40 @@ perfect for a quick family dinner.
 
 ## Ingredients
 
--   1 lb lean ground turkey\
--   1 small onion, finely chopped\
--   1 green bell pepper, diced\
--   2 cloves garlic, minced\
--   ¾ cup ketchup\
--   1 tablespoon tomato paste\
--   1 tablespoon Worcestershire sauce\
--   1 tablespoon brown sugar\
--   1 teaspoon yellow mustard\
--   ½ teaspoon chili powder\
--   ½ teaspoon paprika\
--   Salt and black pepper, to taste\
+-   1 lb lean ground turkey
+-   1 small onion, finely chopped
+-   1 green bell pepper, diced
+-   2 cloves garlic, minced
+-   ¾ cup ketchup
+-   1 tablespoon tomato paste
+-   1 tablespoon Worcestershire sauce
+-   1 tablespoon brown sugar
+-   1 teaspoon yellow mustard
+-   ½ teaspoon chili powder
+-   ½ teaspoon paprika
+-   Salt and black pepper, to taste
 -   4 hamburger buns, toasted
 
 ------------------------------------------------------------------------
 
 ## Instructions
 
-1.  **Cook the turkey**\
+1.  **Cook the turkey**
     In a large skillet over medium-high heat, cook the ground turkey
     with the chopped onion and bell pepper. Break the meat apart as it
     cooks until the turkey is fully cooked and the vegetables are
     softened.
 
-2.  **Add the sauce ingredients**\
+2.  **Add the sauce ingredients**
     Stir in garlic, ketchup, tomato paste, Worcestershire sauce, brown
     sugar, mustard, chili powder, paprika, salt, and pepper.
 
-3.  **Simmer**\
+3.  **Simmer**
     Reduce heat to medium-low and simmer for 10--15 minutes, stirring
     occasionally, until the mixture thickens to your desired
     consistency.
 
-4.  **Serve**\
+4.  **Serve**
     Spoon the turkey mixture onto toasted hamburger buns and serve warm.
 
 ------------------------------------------------------------------------
@@ -67,11 +67,11 @@ perfect for a quick family dinner.
 ## TimeOutChef Tips
 
 -   **Toast the buns:** Lightly toast the buns in a skillet for better
-    texture and to prevent sogginess.\
+    texture and to prevent sogginess.
 -   **Make it spicy:** Substitute a jalapeño for the bell pepper or add
-    cayenne pepper.\
+    cayenne pepper.
 -   **Hidden veggies:** Finely grate carrots or zucchini into the sauce
-    for extra nutrition.\
+    for extra nutrition.
 -   **Make ahead:** The sloppy joe mixture reheats well and can be
     stored in the fridge for up to 4 days.
 
