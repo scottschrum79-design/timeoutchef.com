@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: recipe
+categories:
+- entree
+- vegetarian
+serves: 4
 title: "Vegetable Calzones"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
@@ -11,7 +14,7 @@ title: "Vegetable Calzones"
 - 1 package yeast
 - 2 cups flour
 - 1/2 cup whole -wheat flour
-- 1 tsp . salt
+- 1 tsp salt
 - 1 large egg
 - 1 cup shredded mozzarella
 - 3/4 cup ricotta
