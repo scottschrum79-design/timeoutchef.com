@@ -10,8 +10,7 @@ title: "Roasted Tomato Sauce"
 
 ## Ingredients
 
-- 2 (28 -ounce) cans whole, peeled
-- tomatoes
+- 2 (28 -ounce) cans whole, peeled tomatoes
 - 1/4 cup sherry vinegar
 - 1/4 cup sugar
 - 1 tsp red pepper flakes
