@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: recipe
+categories:
+- chicken
+- asian
+- appetizer
+serves: 12-18
 title: "Thai Chicken Bites"
 ---
-
-<p class="pill">Serves approx 18 servings</p>
 
 ## Ingredients
 
@@ -13,12 +16,10 @@ title: "Thai Chicken Bites"
 - 1 TBSP lime juice
 - 1 tsp sugar
 - 1 tsp ginger , grated
-- 1/4 cup dry-roasted peanuts,
-- chopped, divided
+- 1/4 cup dry-roasted peanuts, chopped, divided
 - 2 TBSP mint, finely chopped
 - 2 TBSP cilantro , finely chopped
-- 1 cucumber, sliced into 1/4" thick
-- rounds
+- 1 cucumber, sliced into 1/4" thick rounds
 - 1/4 cup balsamic vinegar
 
 ## Directions
