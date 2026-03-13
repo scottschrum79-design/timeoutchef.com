@@ -13,10 +13,8 @@ title: "Pepperoni Pizza Bites"
 - 3/4 tsp baking powder
 - 3/4 cup milk, preferably whole
 - 1 egg, lightly beaten
-- 4 oz mozzarella cheese, shredded
-- (about 1 cup)
-- 4 oz pepperoni , cut into small
-- cubes (about 1 cup)
+- 4 oz mozzarella cheese, shredded (about 1 cup)
+- 4 oz pepperoni , cut into small cubes (about 1 cup)
 - 1/2 cup marinara sauce
 - 1 TBSP basil , finely chopped
   
