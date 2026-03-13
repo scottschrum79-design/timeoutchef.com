@@ -11,8 +11,7 @@ title: "Pasta with Peas, Asparagus, and Bacon"
 
 ## Ingredients
 
-- 12 o z pasta: fettuccine , linguini,
-- or penne
+- 12 o z pasta: fettuccine , linguini, or penne
 - 4 slices of bacon
 - 1 bunch of asparagus, trimmed, cut into 1” pieces
 - 2 cups peas, frozen
