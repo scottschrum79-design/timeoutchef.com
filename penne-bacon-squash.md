@@ -13,8 +13,7 @@ title: "Penne with Bacon, Butternut Squash and Spinach"
 
 - 1 lb penne pasta
 - 6 slices bacon
-- 1 buttern ut squash, peeled and
-- seeded cut into medium cubes
+- 1 butternut squash, peeled and seeded cut into medium cubes
 - 2 cups chicken broth
 - 2 1/2 cups baby spinach , about 1 bag
 - 2 cloves garlic, finely chopped
