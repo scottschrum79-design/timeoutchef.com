@@ -1,9 +1,14 @@
 ---
-layout: default
+layout: recipe
+categories:
+- beef
+- steak
+- entree
+- main
+serves: 4
 title: "Sliced Steak with Caper Sauce and Broiled Tomatoes with Bacon Bit Breadcrumbs"
 ---
 
-<p class="pill">Serves 4</p>
 
 ## Ingredients
 
@@ -34,4 +39,4 @@ title: "Sliced Steak with Caper Sauce and Broiled Tomatoes with Bacon Bit Breadc
 
 ## Notes
 
-- Panko breadcrumbs are a must for this recipe becau se they are larger than the standard breadcrumbs in the store.
+- Panko breadcrumbs are a must for this recipe because they are larger than the standard breadcrumbs in the store.
