@@ -79,6 +79,6 @@ perfect for a quick family dinner.
 
 ## Serving Ideas
 
--   Serve with **potato chips, fries, or a simple side salad**.\
--   Spoon leftover filling over **waffle fries or baked potatoes**.\
+-   Serve with **potato chips, fries, or a simple side salad**.
+-   Spoon leftover filling over **waffle fries or baked potatoes**.
 -   Use inside **grilled cheese sandwiches** for a sloppy joe melt.
