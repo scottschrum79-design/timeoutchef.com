@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Ultra Creamy American & Cream Cheese Mac and Cheese"
+title: "White Mac and Cheese (Kid Friendly)"
 slug: "american-cream-cheese-mac-and-cheese"
 date: 2026-04-09
 description: "A silky, mild, ultra-creamy mac and cheese inspired by Chili’s-style comfort food, made with American cheese and cream cheese for the perfect smooth texture."
